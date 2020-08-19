@@ -79,7 +79,9 @@ analytics:
 author:
   name             : "MS student in Colombia"
   avatar           : "self.jpg"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
+  bio              : " MS student in Universidad Santiago de Cali, Researcher focused on machine learning" 
+  
+
   location         : "Cali, Colombia"
   employer         : 
   #googlescholar    : "http://scholar.google.com/this-is-a-test"
