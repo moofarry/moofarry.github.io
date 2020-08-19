@@ -80,10 +80,10 @@ author:
   name             : "MS student in Colombia"
   avatar           : "self.jpg"
   bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  location         : "Cali, Colombia"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            : 
+  #googlescholar    : "http://scholar.google.com/this-is-a-test"
+  email            : "jhon.moofarry00@gmail.com" 
   uri              : 
   bitbucket        :
   codepen          :
