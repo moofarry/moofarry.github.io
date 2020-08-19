@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jhon F. Moofarry"
 title_separator          : "-"
 name                     : &name "Jhon Fredy Moofarry"
-description              : &description "MS student in Colombia"
+description              : &description "My site web"
 url                      : https://moofarry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "moofarry.github.io"
@@ -77,8 +77,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
-  avatar           : "profile.png"
+  name             : "MS student in Colombia"
+  avatar           : "self.jpg"
   bio              : "Research scientist at Test University, expert in all things test and account related"
   location         : "Test, California"
   employer         : 
