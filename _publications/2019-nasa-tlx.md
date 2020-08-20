@@ -1,10 +1,10 @@
 ---
-title: "Parkinson’s disease detection using modulation components in speech signals"
+title: "Proposal for the Implementation of MLP Neural Networks on Arduino Platform"
 collection: publications
-permalink: /publications/2019-parkinson
+permalink: /publications/2019-nasa-tlx
 venue: "IEEE"
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2019-04-24
+date: 2019-12-03
 ---
 
 ## title
