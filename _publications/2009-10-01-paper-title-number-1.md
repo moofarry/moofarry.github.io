@@ -1,5 +1,5 @@
 ---
-title: "Parkinson’s disease detection using modulation components in speech signals"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
 venue: "Universidad Industrial de Santander"
@@ -8,7 +8,6 @@ date: 2019-03-24
 #paperurl: http://academicpages.github.io/files/paper1.pdf
 #citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
 ---
-
 
 ## Tittle
 <div style="text-align: justify"> 
