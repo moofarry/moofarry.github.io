@@ -1,5 +1,5 @@
 ---
-title: "Proposal for the Implementation of MLP Neural Networks on Arduino Platform"
+title: "Selection of Mental Tasks for Brain-Computer Interfaces Using NASA-TLX Index"
 collection: publications
 permalink: /publications/2019-nasa-tlx
 venue: "IEEE"
