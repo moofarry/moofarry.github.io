@@ -1,7 +1,7 @@
 ---
 title: "Parkinson’s disease detection using modulation components in speech signals"
 collection: IEEE
-permalink: /publications/20019-parkinson
+permalink: /publications/2019-parkinson
 venue: "Universidad Industrial de Santander"
 excerpt: 'This paper is about parkinson's disease detection'
 date: 2019-03-24
